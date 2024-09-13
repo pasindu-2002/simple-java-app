@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: lk.nibm.ead2.cw1_hrms.AppTest
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.007 s -- in lk.nibm.ead2.cw1_hrms.AppTest
